@@ -80,7 +80,7 @@ footer {
 footer .menu {
     float: none;
     text-align: center;
-    margin-top: 12px;
+    margin-top: 10px;
 }
 footer .menu li a {
     padding: 6px;
@@ -91,7 +91,7 @@ footer .menu li a:hover {
     text-decoration: underline;
 }
 .copyright {
-    font-size: 16px;
+    font-size: 14px;
     color: #c5def4;
     text-align: center;
     margin: 5px 0;
