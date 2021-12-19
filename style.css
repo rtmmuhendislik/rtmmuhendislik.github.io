@@ -2,6 +2,8 @@
     font-family: Arial;
     margin: 0;
     padding: 0;
+    background-image: url(https://tenor.com/view/minddd-gif-15535619);
+    -webkit-background-clip:text;
 }
 html {
     background-color: #1d4657;
@@ -56,9 +58,7 @@ h1 {
     font-size: 36px;
     margin-top: 15px;
     margin-bottom: 30px;
-    background-image: url(https://tenor.com/view/person-of-interest-reboot-admin-artificial-intelligence-gif-21537689);
-    background-position: center;
-    -webkit-background-clip:text;
+
 }
 h2 {
     margin-top: 15px;
