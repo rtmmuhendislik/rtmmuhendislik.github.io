@@ -1,3 +1,13 @@
+body{
+    background-image: url(https://tenor.com/view/minddd-gif-15535619);
+    background-repeat: no repeat;
+    background-position: center center;
+    background-attachment: fixed;
+    background-size: cover;
+
+}
+
+
 * {
     font-family: Arial;
     margin: 0;
